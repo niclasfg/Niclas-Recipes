@@ -16,3 +16,15 @@ img {
     height: auto;
     width: 300px;
 }
+
+.container {
+    display: flex;
+}
+
+.ingredientbox {
+    flex: 1 1 0
+}
+
+.stepsbox {
+    flex: 4 1 0;
+}
