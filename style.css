@@ -1,0 +1,10 @@
+/* styles.css */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
